@@ -59,20 +59,6 @@ As part of my **online internship at Elevate Labs**, I completed Task 3, which f
 
 ---
 
-## 🔗 Repository Link
-
-📌 [Click here to view the full project](https://github.com/your-username/your-repo-name)  
-_(Replace this link with your actual GitHub repo URL)_
-
----
-
-## 📷 Sample Dashboard Screenshot
-
-![Dashboard Screenshot](dashboard.png)  
-_(Add your own image and rename it `dashboard.png` or adjust accordingly)_
-
----
-
 ### 🚀 Thank You Elevate Labs for this amazing learning opportunity!
 
 #PowerBI #DashboardDesign #DataStorytelling #ElevateLabsInternship #CallCenterAnalytics #BusinessIntelligence #Task3
